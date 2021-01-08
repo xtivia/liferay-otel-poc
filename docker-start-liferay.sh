@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 docker pull liferay/dxp:7.3.10-ga1
 
